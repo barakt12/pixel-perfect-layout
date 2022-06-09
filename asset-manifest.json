@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/pixel-perfect-layout/static/css/main.712d51b0.css",
-    "main.js": "/pixel-perfect-layout/static/js/main.db3ad4d1.js",
+    "main.css": "/pixel-perfect-layout/static/css/main.3f915079.css",
+    "main.js": "/pixel-perfect-layout/static/js/main.195749ed.js",
     "static/media/Livvic-Regular.ttf": "/pixel-perfect-layout/static/media/Livvic-Regular.9994035d65e433690b4a.ttf",
     "static/media/Livvic-Medium.ttf": "/pixel-perfect-layout/static/media/Livvic-Medium.e1727d156b658481f5c4.ttf",
     "static/media/avatar-kady.jpg": "/pixel-perfect-layout/static/media/avatar-kady.78fc482c1b331d912ca1.jpg",
@@ -17,11 +17,11 @@
     "static/media/icon-twitter.svg": "/pixel-perfect-layout/static/media/icon-twitter.1d5c6d5e6ab1717a500af2df0a87959a.svg",
     "static/media/icon-facebook.svg": "/pixel-perfect-layout/static/media/icon-facebook.229c75a01827343aef31ae916e2ec18a.svg",
     "static/media/icon-hamburger.svg": "/pixel-perfect-layout/static/media/icon-hamburger.fc176eb243d0591583eb436d00f4c10e.svg",
-    "main.712d51b0.css.map": "/pixel-perfect-layout/static/css/main.712d51b0.css.map",
-    "main.db3ad4d1.js.map": "/pixel-perfect-layout/static/js/main.db3ad4d1.js.map"
+    "main.3f915079.css.map": "/pixel-perfect-layout/static/css/main.3f915079.css.map",
+    "main.195749ed.js.map": "/pixel-perfect-layout/static/js/main.195749ed.js.map"
   },
   "entrypoints": [
-    "static/css/main.712d51b0.css",
-    "static/js/main.db3ad4d1.js"
+    "static/css/main.3f915079.css",
+    "static/js/main.195749ed.js"
   ]
 }
